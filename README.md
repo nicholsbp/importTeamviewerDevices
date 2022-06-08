@@ -1,2 +1,2 @@
 # importTeamviewerDevices
-This powershell script allows you to import devices into a corporate teamviewer account utilizing rest API. Usefull during mergers of teamviewer corporate accounts. Generate a compatible CSV using the teamviewer API.
+This powershell script allows you to mass import devices into a teamviewer tenant utilizing rest API. Generate a compatible CSV using the teamviewer API.
